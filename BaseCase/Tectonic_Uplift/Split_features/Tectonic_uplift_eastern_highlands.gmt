@@ -1,0 +1,7 @@
+# @VGMT1.0 @GPOLYGON
+# @R142.692204385/153.355520937/-37.9960447159/-15.3221271107             
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NId|FROMAGE|TOAGE|Elevation
+# @Tinteger|double|double|integer
+# FEATURE_DATA
