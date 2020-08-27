@@ -6,7 +6,7 @@ batch=AUSB
 mkdir ${batch}
 mkdir ${batch}/Input_xmls
 
-for num in {004..004}
+for num in {101..101}
 do
 	model=$(printf "%03d" $num)
 	model=${batch}${model}

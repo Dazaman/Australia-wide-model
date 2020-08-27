@@ -18,7 +18,8 @@ erod_input=Input/${ErodLayer1}
 # resol="_5km_xy"
 # resol="_50km"
 # resol="_25km"
-resol="_50km_GDA94"
+# resol="_50km_GDA94"
+resol="_10km"
 
 input_latlon=../LatLon${resol}.xy
 

@@ -1,6 +1,6 @@
-AUSB004
+AUSB101
 -
-50km_GDA94
+10km
 BaseCase
 gmcm9c
 1
